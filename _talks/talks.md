@@ -4,6 +4,12 @@ title: "Presentations and Talks"
 permalink: /talks/
 ---
 
-### 2024
-- Annual Meeting of the American Political Science Assocition (APSA), 12.09.2024, Philadelphia
-- Digital Democracy Workshop, 25.10.2024, Zurich
+
+### Forthcoming Talks in 2025
+- *AoIR Flashpoint Symposium 2025*, 3-4.06.2025, Bremen
+- *Annual Conference of the European Political Science Association*, 26-28.06.2025, Madrid
+
+
+### Talks in 2024
+- *Annual Meeting of the American Political Science Association (APSA)*, 12.09.2024, Philadelphia [link](https://bsky.app/profile/mianahrgang.bsky.social/post/3l3gabfg7zx2l)
+- *Digital Democracy Workshop*, 25.10.2024, Zurich [link](https://democracy.dsi.uzh.ch/app/uploads/2024/08/Digital-Democracy-Workshop_Program_2024.pdf)
