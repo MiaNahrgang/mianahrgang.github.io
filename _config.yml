@@ -13,7 +13,7 @@ title                    : "Mia Nahrgang"
 title_separator          : "-"
 name                     : &name "Mia Nahrgang"
 description              : &description "PhD Candidate at University of Konstanz"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mianahrgang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MiaNahrgang/mianahrgang.github.io"
 
