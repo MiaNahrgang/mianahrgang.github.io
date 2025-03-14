@@ -2,7 +2,6 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-date: false
 ---
 
 ### MA Seminar: Content Moderation on Social Media Platforms
