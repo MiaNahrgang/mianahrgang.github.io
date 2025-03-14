@@ -18,9 +18,9 @@ redirect_from:
 
 ## Work experience
 
-* **Doctoral Researcher** at the University of Konstanz (October 2023 - present)
+* Doctoral Researcher at the University of Konstanz (October 2023 - present)
 
-* **Research Trainee** at the European Institute for Gender Equality (EIGE), Vilnius (June 2022 - May 2023)
+* Research Trainee at the European Institute for Gender Equality (EIGE), Vilnius (June 2022 - May 2023)
 
 * Research Assistant at the University of Konstanz (February 2021 - July 2022)
 
