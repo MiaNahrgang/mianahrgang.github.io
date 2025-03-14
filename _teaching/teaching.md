@@ -2,9 +2,11 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+date: false
 ---
 
-WS 2024/2025
-- MA Seminar: Content Moderation on Social Media Platforms
-	- co-taught with Nils Weidmann
-	- practical seminar where the students developped over the semester a research project on content moderation 
+### MA Seminar: Content Moderation on Social Media Platforms
+
+- winter semester 2024/2025
+- co-taught with Nils Weidmann
+- practical seminar where the students were advised to develop a research project on content moderation over the semester 
