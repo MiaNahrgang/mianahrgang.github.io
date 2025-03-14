@@ -2,7 +2,6 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-date: null
 ---
 
 ### MA Seminar: Content Moderation on Social Media Platforms (WS 2024/25)
