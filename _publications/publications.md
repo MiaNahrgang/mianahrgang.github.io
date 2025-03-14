@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-- **Title of Paper 1**, Journal Name, Year. [Link](#)
-- **Title of Paper 2**, Conference Name, Year. [Link](#)
-- **Title of Paper 3**, Preprint. [Link](#)
+## Working Papers
+
+- **Written for Lawyers or Users? Mapping the Complexity of Community Guidelines**, Nahrgang, M., Weidmann, N., Quint, F., Nagel, S., Theocharis, Y., & Roberts, M. (2025).
+- **Does the Community Understand the Community Guidelines?**, Quint, F., Theocharis, Y., Nahrgang, M., Weidmann, N., & Roberts, M. (2025).
