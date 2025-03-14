@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, University of Konstanz (October 2023 - present)
+* M.A. in Politics and Public Administration, University of Konstanz, 2022
+* M.A. in International Security Studies, Charles University (Prague), 2022
+* B.A. in International Relation, University of Erfurt, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Doctoral Researcher at the University of Konstanz (October 2023 - present)
+  * Project: Transparency in Content Moderation
+  * Research Group: Communication, Networks and Contention
+  * Supervisor: Prof. Dr. Nils Weidmann
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Trainee at the European Institute for Gender Equality (EIGE), Vilnius (June 2022 - May 2023)
+  * Team: Research and Statistics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant at the University of Konstanz (February 2021 - July 2022)
+  * Project: Mobilizing Inequalities - From Grievances to Conflict
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
