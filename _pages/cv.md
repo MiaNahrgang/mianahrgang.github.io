@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * Ph.D in Political Science, University of Konstanz (October 2023 - present)
 * M.A. in Politics and Public Administration, University of Konstanz, 2022
 * M.A. in International Security Studies, Charles University (Prague), 2022
 * B.A. in International Relation, University of Erfurt, 2020
 
-Work experience
-======
+## Work experience
+
 * Doctoral Researcher at the University of Konstanz (October 2023 - present)
   * Project: Transparency in Content Moderation
   * Research Group: Communication, Networks and Contention
