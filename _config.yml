@@ -188,6 +188,7 @@ exclude:
   - _pages/publications.md
   - _pages/talks.md
   - _pages/teaching.md
+  - sitemap.xml
 keep_files:
   - .git
   - .svn
