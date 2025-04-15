@@ -7,7 +7,8 @@ permalink: /talks/
 
 ### Forthcoming Talks in 2025
 - *AoIR Flashpoint Symposium 2025*, 3-4.06.2025, Bremen
-- *Annual Conference of the European Political Science Association*, 26-28.06.2025, Madrid
+- *International Conference on Web and Social Media (ICWSM)*, 24-26.06.2025, Copenhagen
+- *Annual Conference of the European Political Science Association (EPSA)*, 26-28.06.2025, Madrid
 
 
 ### Talks in 2024
