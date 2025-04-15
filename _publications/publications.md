@@ -11,4 +11,4 @@ permalink: /publications/
 ### Working Papers
 
 - Quint, F., Theocharis, Y., Nahrgang, M., Roberts, M. E., & Weidmann, N. B. Does the Community Understand the Community Guidelines?
-- Landwehr, D., Nahrgang, M., Nagel, S. Weidmann, N. B., Roberts, M. E. Practicing Freedom of Speech, or Merely Signaling It? Analyzing the Effects of Meta's Content Moderation Reform. 
+- Landwehr, D., Nahrgang, M., Nagel, S., Weidmann, N. B., Roberts, M. E. Practicing Freedom of Speech, or Merely Signaling It? Analyzing the Effects of Meta's Content Moderation Reform. 
