@@ -3,9 +3,9 @@ layout: single
 title: "Publications"
 permalink: /publications/
 ---
-### Forthcoming
+### Journal Articles
 
-- Nahrgang, M., Weidmann, N. B., Quint, F., Nagel, S., Theocharis, Y., & Roberts, M. E. (2025). Written for Lawyers or Users? Mapping the Complexity of Community Guidelines. Proceedings of the International AAAI Conference on Web and Social Media.
+- Nahrgang, M., Weidmann, N. B., Quint, F., Nagel, S., Theocharis, Y., & Roberts, M. E. (2025). Written for Lawyers or Users? Mapping the Complexity of Community Guidelines. Proceedings of the International AAAI Conference on Web and Social Media. [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/35873).
 
 
 ### Working Papers
