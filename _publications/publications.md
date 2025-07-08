@@ -12,3 +12,4 @@ permalink: /publications/
 
 - Quint, F., Theocharis, Y., Nahrgang, M., Roberts, M. E., & Weidmann, N. B. Does the Community Understand the Community Guidelines?
 - Landwehr, D., Nahrgang, M., Nagel, S., Weidmann, N. B., Roberts, M. E. Practicing Freedom of Speech, or Merely Signaling It? Analyzing the Effects of Meta's Content Moderation Reform. 
+- Nahrgang, M. Opening the Black Box: Exploring Content Moderation Dynamics During Elections.
