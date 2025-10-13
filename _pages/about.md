@@ -14,6 +14,7 @@ My research focuses on content moderation on social media platforms within the p
 
 Research Interests
 ======
-* Conten Moderation Policies such as Community Guidelines
+* Content Moderation 
+* Community Guidelines
 * Social Media Data
-* Computational Methods
+* Computational Social Science
