@@ -3,7 +3,8 @@ layout: single
 title: "Presentations and Talks"
 permalink: /talks/
 ---
-
+### Upcoming Talks
+- *Annual Conference of the European Political Science Society (EPSS)*, 18-20.06.2026, ICC Belfast
 
 ### Talks in 2025
 - *Workshop on Content Moderation, Free Speech and Platform Governance*, 21-22.05.2025, Royal Holloway, University of London [link](https://www.newpolcom.rhul.ac.uk/npcu-blog/2025/5/12/workshop-on-content-moderation-free-speech-and-platform-governance-21-22-may-2025)
