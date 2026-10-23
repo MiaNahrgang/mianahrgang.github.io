@@ -11,5 +11,6 @@ permalink: /publications/
 
 ### Working Papers
 
-- Nahrgang, M. Balancing Speed and Accuracy: Evaluating the Quality of Content Moderation During Elections
-- Landwehr, D., Nahrgang, M., Nagel, S., Weidmann, N. B., Roberts, M. E. Practicing Freedom of Speech, or Merely Signaling It? Analyzing the Effects of Meta's Content Moderation Reform. 
+- Nahrgang, M. Balancing Speed and Accuracy: Evaluating the Quality of Content Moderation During Elections.
+- Nahrgang, M., Weidmann, N. B., & Roberts, M. E. Meta's Oversight Board: A Tool for Democratizing Content Moderation or Symbolic Window Dressing?
+- Landwehr, D., Nahrgang, M., Nagel, S., Weidmann, N. B., & Roberts, M. E. Practicing Freedom of Speech, or Merely Signaling It? Analyzing the Effects of Meta's Content Moderation Reform. 
